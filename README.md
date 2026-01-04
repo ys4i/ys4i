@@ -1,15 +1,18 @@
-# やすし(yasushi)  
+# やすし (yasushi)  
 ![yasushi cover](image/cover.webp)
 
-聞いて、整理して、作る。回路とソフトで体験を届けるエンジニアです。  
+聞いて、整理して、作る。  
+電子回路とソフトウェアで体験を届けるエンジニアです。  
 <dl>
-  <dt>ポートフォリオサイト</dt><dd><a class="link" href="https://ys4i.jp/profile">ys4i.jp/profile</a></dd>
+  <dt>詳細はポートフォリオサイトへ</dt><dd><a class="link" href="https://ys4i.jp/profile">ys4i.jp/profile</a></dd>
 </dl>
 
 # 主な作品
-- ランプシェード「[Analightic](https://ys4i.jp/projects/analightic/)」
-- ワイヤレススピーカー「[YSP-01](https://ys4i.jp/projects/ysp-01/)」
-- 心拍可視化デバイス「[e-lamp](https://ys4i.jp/projects/e-lamp/)」(ODM供給)
+<dl>
+  <dt>ランプシェード「Analightic」</dt><dd><a class="link" href="https://ys4i.jp/projects/analightic/">ys4i.jp/projects/analightic/</a></dd>
+  <dt>ワイヤレススピーカー「YSP-01」</dt><dd><a class="link" href="https://ys4i.jp/projects/ysp-01/">ys4i.jp/projects/ysp-01/</a></dd>
+  <dt>心拍可視化デバイス「e-lamp」(ODM供給)</dt><dd><a class="link" href="https://ys4i.jp/projects/e-lamp/">ys4i.jp/projects/e-lamp/</a></dd>
+</dl>
 
 # 連絡先
 <dl>
