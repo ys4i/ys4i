@@ -7,8 +7,8 @@
 </dl>
 
 # 主な作品
-- ワイヤレススピーカー「[YSP-01](https://ys4i.jp/projects/ysp-01/)」
 - ランプシェード「[Analightic](https://ys4i.jp/projects/analightic/)」
+- ワイヤレススピーカー「[YSP-01](https://ys4i.jp/projects/ysp-01/)」
 - 心拍可視化デバイス「[e-lamp](https://ys4i.jp/projects/e-lamp/)」(ODM供給)
 
 # 連絡先
