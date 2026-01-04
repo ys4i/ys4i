@@ -4,11 +4,15 @@
 
 ![yasushi cover](image/cover.webp)
 
-- 音響/IoT/展示向けの試作から製品化まで
-- 回路・ファーム・ソフト・筐体・デモづくりまでまとめて設計/実装
-- ワイヤレススピーカー「YSP-01」、ランプシェード「Analightic」、心拍可視化デバイス「e-lamp」ODM供給
+音響/IoT/展示向けの試作から製品化まで  
+<dl class="profile-grid">
+  <dt>ポートフォリオサイト:</dt><dd><a class="link" href="https://ys4i.jp/profile">https://ys4i.jp/profile</a></dd>
+</dl>
 
-詳細はポートフォリオサイト (https://ys4i.jp/profile) へ
+# 主な作品
+- ワイヤレススピーカー「[YSP-01](https://ys4i.jp/projects/ysp-01/)」
+- ランプシェード「[Analightic](https://ys4i.jp/projects/analightic/)」
+- 心拍可視化デバイス「[e-lamp](https://ys4i.jp/projects/e-lamp/)」(ODM供給)
 
 # 連絡先
 <dl class="profile-grid">
