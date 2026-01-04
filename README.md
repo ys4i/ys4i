@@ -8,12 +8,11 @@
 - 回路・ファーム・ソフト・筐体・デモづくりまでまとめて設計/実装
 - ワイヤレススピーカー「YSP-01」、ランプシェード「Analightic」、心拍可視化デバイス「e-lamp」ODM供給
 
-詳細は https://ys4i.jp/profile へどうぞ。
+詳細はポートフォリオサイト (https://ys4i.jp/profile) へ
 
 # 連絡先
 <dl class="profile-grid">
   <dt>Email</dt><dd><a class="link" href="mailto:yasushitech@gmail.com">yasushitech@gmail.com</a></dd>
-  <dt>GitHub</dt><dd><a class="link" href="https://github.com/ys4i" target="_blank" rel="noopener">https://github.com/ys4i</a></dd>
   <dt>Twitter</dt><dd><a class="link" href="https://twitter.com/yasushi_tech" target="_blank" rel="noopener">https://twitter.com/yasushi_tech</a></dd>
 </dl>
 ※上記のほか、所属大学のメールアドレスからご連絡する場合があります。
