@@ -1,10 +1,7 @@
-# やすし(yasushi)
-
-聞いて、整理して、作る。回路とソフトで体験を届けるエンジニアです。
-
+# やすし(yasushi)  
 ![yasushi cover](image/cover.webp)
 
-音響/IoT/展示向けの試作から製品化まで  
+聞いて、整理して、作る。回路とソフトで体験を届けるエンジニアです。  
 <dl class="profile-grid">
   <dt>ポートフォリオサイト:</dt><dd><a class="link" href="https://ys4i.jp/profile">https://ys4i.jp/profile</a></dd>
 </dl>
