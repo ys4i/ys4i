@@ -1,16 +1,19 @@
-## Hi there 👋
+# やすし(yasushi)
 
-<!--
-**ys4i/ys4i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+聞いて、整理して、作る。回路とソフトで体験を届けるエンジニアです。
 
-Here are some ideas to get you started:
+![yasushi cover](image/cover.webp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 音響/IoT/展示向けの試作から製品化まで
+- 回路・ファーム・ソフト・筐体・デモづくりまでまとめて設計/実装
+- ワイヤレススピーカー「YSP-01」、ランプシェード「Analightic」、心拍可視化デバイス「e-lamp」ODM供給
+
+詳細は https://ys4i.jp/profile へどうぞ。
+
+# 連絡先
+<dl class="profile-grid">
+  <dt>Email</dt><dd><a class="link" href="mailto:yasushitech@gmail.com">yasushitech@gmail.com</a></dd>
+  <dt>GitHub</dt><dd><a class="link" href="https://github.com/ys4i" target="_blank" rel="noopener">https://github.com/ys4i</a></dd>
+  <dt>Twitter</dt><dd><a class="link" href="https://twitter.com/yasushi_tech" target="_blank" rel="noopener">https://twitter.com/yasushi_tech</a></dd>
+</dl>
+※上記のほか、所属大学のメールアドレスからご連絡する場合があります。
